@@ -185,59 +185,6 @@ A multi-tenant e-commerce platform built with React 19, Express, and SQLite, run
 
 ---
 
-## 🟣 Achievements
-
-<div align="center">
-
-| Achievement | Detail |
-|:---|:---|
-| _Add achievement_ | _Add detail_ |
-| _Add achievement_ | _Add detail_ |
-| _Add achievement_ | _Add detail_ |
-
-</div>
-
----
-
-## 🟣 Certifications
-
-<div align="center">
-
-**AWS**
-<br/>
-`Placeholder — add certification badge/link`
-
-**Oracle**
-<br/>
-`Placeholder — add certification badge/link`
-
-**NPTEL**
-<br/>
-`Placeholder — add certification badge/link`
-
-**Cisco**
-<br/>
-`Placeholder — add certification badge/link`
-
-</div>
-
----
-
-## 🟣 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-%5Busername%5D-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=orange)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%5Busername%5D-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=green)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%5Busername%5D-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%5Busername%5D-1a1a2e?style=for-the-badge&logo=codechef&logoColor=white)](#)
-
-_Placeholder handles — replace `[username]` and links once profiles are added._
-
-</div>
-
----
-
 ## 🟣 GitHub Analytics
 
 <div align="center">
