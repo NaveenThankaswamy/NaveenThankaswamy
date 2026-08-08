@@ -1,301 +1,311 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,1:5B21B6,2:7C3AED,3:A855F7,4:C084FC&height=250&section=header&text=NAVEEN%20T%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Full-Stack%20Engineering&descAlignY=55&descAlign=50" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Naveen%20T%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%2F%20Data%20Science%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Engineering;Problem-First%2C+Tool-Second;Building+RAG+Systems+%26+Uplift+Models;Open+to+Fresher+ML%2FAI+Roles" alt="Typing SVG" />
+
+<br/>
+
+![CGPA](https://img.shields.io/badge/CGPA-7.5%2F10-6D28D9?style=for-the-badge)
+![Graduating](https://img.shields.io/badge/Graduating-July%202026-6D28D9?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen4235)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenthankaswamy07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaveenThankaswamy)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NaveenThankaswamy&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/NaveenThankaswamy?style=for-the-badge&color=8a2be2&labelColor=0d1117&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/NaveenThankaswamy?style=for-the-badge&color=8a2be2&labelColor=0d1117&logo=github&logoColor=white)
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+with+ML+%26+AI;Engineering+production-ready+RAG+pipelines;Turning+data+into+decisions+with+uplift+modeling;Full-stack+developer+with+a+product+engineering+mindset" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CGPA-7.5-8B5CF6?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graduating-July%202026-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bengaluru,_India-6366F1?style=for-the-badge&logo=google-maps&logoColor=white" />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/naveen4235">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naveenthankaswamy07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/NaveenThankaswamy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaveenThankaswamy&color=8B5CF6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/NaveenThankaswamy?color=7C3AED&style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/NaveenThankaswamy?color=A855F7&style=for-the-badge&logo=github&label=Stars" />
-</div>
+<br/>
 
 ---
 
-## <div align="center">About</div>
+## 🟣 About Me
 
 <div align="center">
-
-Computer Science graduate working across **data science, machine learning, and AI** — not tied to one lane. Problem-first, tool-second: sometimes that's building a model, sometimes integrating an LLM, sometimes making sure the pipeline behind either one holds up.
-
-Early career, with a clear sense of the kind of engineer I want to become. I bring a **product engineering mindset** to every project: shipping models behind APIs, containerizing services, and building interfaces that make AI accessible.
-
+<img src="https://img.shields.io/badge/-Data%20Science-1a1a2e?style=flat-square&color=8B5CF6" />
+<img src="https://img.shields.io/badge/-Machine%20Learning-1a1a2e?style=flat-square&color=7C3AED" />
+<img src="https://img.shields.io/badge/-AI%20%2F%20LLM%20Engineering-1a1a2e?style=flat-square&color=6D28D9" />
+<img src="https://img.shields.io/badge/-Full%20Stack%20Engineering-1a1a2e?style=flat-square&color=5B21B6" />
 </div>
+<br/>
+
+I'm a Computer Science graduate working across data science, machine learning, and AI — not tied to one lane. I think in terms of problems first and tools second: sometimes that means building a model, sometimes integrating an LLM, sometimes making sure the pipeline behind either one actually holds up.
+
+I'm early in my career, but I already have a clear sense of the kind of engineer I want to become — someone who can move from a Jupyter notebook to a production API without losing rigor along the way, and who treats model evaluation and system reliability as equally important.
+
+### 🎯 Open To
 
 <div align="center">
 
-**Open To:** Data Science · ML Engineering · AI Engineering · Full-Stack + AI Hybrid Roles *(Fresher Level)*
-
-</div>
-
----
-
-## <div align="center">Tech Stack</div>
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,express,postgres,sqlite" />
-
-### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=docker,git" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+| Role | Level |
+|:---|:---:|
+| Data Science | Fresher |
+| Machine Learning Engineering | Fresher |
+| AI Engineering | Fresher |
 
 </div>
 
 ---
 
-## <div align="center">AI / ML Expertise</div>
+## 🟣 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,express,postgres,sqlite&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git&theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+</div>
+
+---
+
+## 🟣 AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Machine Learning** | Advanced | scikit-learn, XGBoost, Logistic Regression, Uplift Modeling, SHAP, Statistical Analysis |
-| **Model Evaluation** | Advanced | ROC-AUC, Qini AUC, Performance Metrics, Model Comparison |
-| **Data Analysis** | Proficient | Pandas, NumPy, Matplotlib |
-| **AI & LLM Engineering** | Proficient | Retrieval-Augmented Generation (RAG), Semantic Search, FAISS, SentenceTransformers |
-| **Deployment & APIs** | Proficient | FastAPI, REST API Design, API-Key Auth, Docker, PostgreSQL, Streamlit |
+|:---|:---:|:---|
+| **Machine Learning** | Core | scikit-learn, XGBoost, Logistic Regression, Uplift Modeling, Model Evaluation (ROC-AUC, Qini AUC), SHAP, Statistical Analysis |
+| **AI & LLM Engineering** | Applied | Retrieval-Augmented Generation (RAG), Semantic Search (FAISS) |
+| **Data Analysis** | Core | Pandas, NumPy, Matplotlib |
+| **Deployment & Tooling** | Applied | FastAPI, REST API Design (API-Key Auth), Docker, PostgreSQL, Streamlit, Git |
 
 </div>
 
 ---
 
-## <div align="center">Featured Projects</div>
+## 🟣 Featured Projects
 
-<details>
-<summary><b>Churn Analytics with Uplift Modeling</b></summary>
-<br>
+<details open>
+<summary><b>🔹 Churn Analytics with Uplift Modeling</b></summary>
+<br/>
 
-Trained and compared churn classifiers (XGBoost: 0.9646 ROC-AUC) against three uplift models, with SoloModel achieving the best Qini AUC of 0.1708 — identifying customers where a retention offer would actually change behavior rather than just churn risk. Designed a campaign ROI simulator (expected uplift × customer lifetime value vs. offer cost) and used SHAP and Qini curves to evaluate and defend model selection. Shipped the models behind a FastAPI + PostgreSQL service with API-key auth, containerized via Docker Compose alongside a Streamlit dashboard.
+Trained and compared churn classifiers against three uplift models to move beyond raw churn-risk scoring — the goal was identifying customers where a retention offer would actually change behavior, not just customers likely to leave. XGBoost led the churn classifiers at **0.9646 ROC-AUC**, while **SoloModel** was the strongest uplift model with a **Qini AUC of 0.1708**. A campaign ROI simulator (expected uplift × customer lifetime value vs. offer cost) was built on top of the models, with SHAP and Qini curves used to evaluate and defend model selection. The models were shipped behind a FastAPI + PostgreSQL service with API-key authentication, containerized via Docker Compose alongside a Streamlit dashboard.
 
-| Attribute | Value |
-|-----------|-------|
+| Attribute | Details |
+|:---|:---|
 | **Stack** | Python, XGBoost, scikit-learn, FastAPI, PostgreSQL, Docker, Streamlit |
-| **Scale** | Single-tenant API service with containerized deployment |
-| **Performance** | XGBoost ROC-AUC: **0.9646** · SoloModel Qini AUC: **0.1708** |
-| **Security** | API-key authentication, secure data handling |
-| **Impact** | ROI-driven campaign simulator with SHAP explainability for model defense |
-| **Repository** | [github.com/NaveenThankaswamy/churn-uplift-project](https://github.com/NaveenThankaswamy/churn-uplift-project) |
+| **Scale** | Benchmarked against 3 uplift models plus baseline churn classifiers |
+| **Performance** | XGBoost: 0.9646 ROC-AUC · SoloModel: 0.1708 Qini AUC (best uplift model) |
+| **Security** | API-key authenticated REST endpoints |
+| **Impact** | Shifts targeting from "who might churn" to "who a retention offer actually moves," with an ROI simulator to justify spend |
+| **Repository** | [churn-uplift-project](https://github.com/NaveenThankaswamy/churn-uplift-project) |
 
 </details>
 
 <details>
-<summary><b>DocuMind AI — Enterprise Knowledge Assistant (RAG)</b></summary>
-<br>
+<summary><b>🔹 DocuMind AI — Enterprise Knowledge Assistant (RAG)</b></summary>
+<br/>
 
-Full-stack RAG system (FastAPI backend) enabling PDF upload and natural-language Q&A grounded in document content, with source citation. Implemented the retrieval pipeline — chunked PDF text, SentenceTransformer embeddings, indexed in FAISS — and integrated a local LLM (Ollama, phi3:mini) with context-restricted prompts to reduce hallucination.
+A full-stack Retrieval-Augmented Generation system with a FastAPI backend that lets users upload PDFs and ask natural-language questions grounded in the document content, with source citation. The retrieval pipeline chunks PDF text, generates SentenceTransformer embeddings, and indexes them in FAISS. A local LLM (Ollama, phi3:mini) is integrated with context-restricted prompts to keep answers grounded in the retrieved content and reduce hallucination.
 
-| Attribute | Value |
-|-----------|-------|
+| Attribute | Details |
+|:---|:---|
 | **Stack** | Python, FastAPI, FAISS, SentenceTransformers, Ollama (phi3:mini) |
-| **Scale** | Full-stack RAG system with local LLM integration |
-| **Performance** | Context-restricted prompts to reduce hallucination |
-| **Security** | Document-grounded responses with source citation |
-| **Impact** | Enterprise knowledge assistant enabling PDF Q&A with traceable sources |
-| **Repository** | [github.com/NaveenThankaswamy/DocuMind-AI-RAG](https://github.com/NaveenThankaswamy/DocuMind-AI-RAG) |
+| **Scale** | PDF upload → chunking → embedding → FAISS retrieval pipeline |
+| **Performance** | Context-restricted prompting to reduce hallucination (not independently benchmarked) |
+| **Security** | Source-citation grounding keeps answers traceable to the source document |
+| **Impact** | Enables natural-language Q&A over private documents, with cited answers instead of free-floating LLM output |
+| **Repository** | [DocuMind-AI-RAG](https://github.com/NaveenThankaswamy/DocuMind-AI-RAG) |
 
 </details>
 
 <details>
-<summary><b>EcoStream-Lite — Multi-Storefront E-Commerce Platform (LLM-Integrated)</b></summary>
-<br>
+<summary><b>🔹 EcoStream-Lite — Multi-Storefront E-Commerce Platform (LLM-Integrated)</b></summary>
+<br/>
 
-Architected a multi-tenant platform (React 19, Express, SQLite) with 4 independent storefronts sharing a common admin layer. Integrated LLMs via OpenRouter for SEO copywriting, sentiment analysis, and smart customer replies. Built a React admin dashboard for cross-store analytics and content oversight.
+A multi-tenant e-commerce platform built with React 19, Express, and SQLite, running 4 independent storefronts on a shared admin layer. LLMs are integrated via OpenRouter for SEO copywriting, sentiment analysis, and smart customer replies, with a React admin dashboard providing cross-store analytics and content oversight.
 
-| Attribute | Value |
-|-----------|-------|
+| Attribute | Details |
+|:---|:---|
 | **Stack** | React 19, Express, SQLite, OpenRouter |
-| **Scale** | Multi-tenant platform with 4 independent storefronts |
-| **Performance** | LLM-integrated SEO, sentiment analysis, and smart customer replies |
-| **Security** | Common admin layer with cross-store oversight |
-| **Impact** | Multi-storefront e-commerce with AI-powered content and analytics |
-| **Repository** | [github.com/NaveenThankaswamy/ECOSTREAM-LITE](https://github.com/NaveenThankaswamy/ECOSTREAM-LITE) |
+| **Scale** | 4 independent storefronts on a shared multi-tenant admin layer |
+| **Performance** | Not independently benchmarked |
+| **Security** | Not specified |
+| **Impact** | Automates storefront content (SEO copy, customer replies, sentiment analysis) while centralizing oversight across stores |
+| **Repository** | [ECOSTREAM-LITE](https://github.com/NaveenThankaswamy/ECOSTREAM-LITE) |
 
 </details>
 
 ---
 
-## <div align="center">Experience</div>
+## 🟣 Experience
+
+**Software Engineering Intern** · NexGen Innovator Solutions
+`July 2025 – August 2025`
+
+- Built core backend modules — authentication, student registration, profile management, secure data handling — for a Django-based Student Portfolio Portal with generative AI features for managing student profiles, academic records, and project portfolios.
+- Designed and implemented responsive, intuitive front-end interfaces aligned with academic usability standards; contributed to both the UI layer and underlying data architecture.
 
 <div align="center">
 
-### Software Engineering Intern — NexGen Innovator Solutions
-*July 2025 – August 2025*
-
-</div>
-
-<div align="left">
-
-- Built core backend modules — **user authentication, student registration, profile management, and secure data handling** — for a Django-based Student Portfolio Portal with generative AI features for managing student profiles, academic records, and project portfolios.
-- Designed and implemented **responsive, intuitive front-end interfaces** aligned with academic usability standards; contributed to both the UI layer and the underlying data architecture.
-
-</div>
-
-<div align="center">
-
-`Django` · `Python` · `Generative AI` · `Full-Stack Development` · `Secure Data Handling`
+![Django](https://img.shields.io/badge/-Django-6D28D9?style=flat-square&logoColor=white)
+![Auth](https://img.shields.io/badge/-Authentication-6D28D9?style=flat-square&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-6D28D9?style=flat-square&logoColor=white)
+![Frontend](https://img.shields.io/badge/-Frontend%20Development-6D28D9?style=flat-square&logoColor=white)
+![Data Architecture](https://img.shields.io/badge/-Data%20Architecture-6D28D9?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## <div align="center">Achievements</div>
+## 🟣 Achievements
 
 <div align="center">
 
-| Achievement | Organization | Year |
-|-------------|--------------|------|
-| *Placeholder — To be updated* | — | — |
-| *Placeholder — To be updated* | — | — |
-| *Placeholder — To be updated* | — | — |
+| Achievement | Detail |
+|:---|:---|
+| _Add achievement_ | _Add detail_ |
+| _Add achievement_ | _Add detail_ |
+| _Add achievement_ | _Add detail_ |
 
 </div>
 
 ---
 
-## <div align="center">Certifications</div>
+## 🟣 Certifications
 
 <div align="center">
 
-### AWS
-<img src="https://img.shields.io/badge/AWS-Placeholder-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+**AWS**
+<br/>
+`Placeholder — add certification badge/link`
 
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Placeholder-F80000?style=flat-square&logo=oracle&logoColor=white" />
+**Oracle**
+<br/>
+`Placeholder — add certification badge/link`
 
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Placeholder-1E88E5?style=flat-square&logo=google-scholar&logoColor=white" />
+**NPTEL**
+<br/>
+`Placeholder — add certification badge/link`
 
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-Placeholder-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+**Cisco**
+<br/>
+`Placeholder — add certification badge/link`
 
 </div>
 
 ---
 
-## <div align="center">Coding Profiles</div>
+## 🟣 Coding Profiles
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Placeholder-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Placeholder-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Placeholder-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Placeholder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-%5Busername%5D-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=orange)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%5Busername%5D-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=green)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%5Busername%5D-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%5Busername%5D-1a1a2e?style=for-the-badge&logo=codechef&logoColor=white)](#)
+
+_Placeholder handles — replace `[username]` and links once profiles are added._
 
 </div>
 
 ---
 
-## <div align="center">GitHub Analytics</div>
+## 🟣 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenThankaswamy&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenThankaswamy&theme=midnight-purple&hide_border=true" height="180" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenThankaswamy&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8" height="180" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=NaveenThankaswamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=NaveenThankaswamy&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
----
+<br/>
 
-## <div align="center">GitHub Trophies</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenThankaswamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaveenThankaswamy&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </div>
 
 ---
 
-## <div align="center">Contribution Activity</div>
+## 🟣 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenThankaswamy&theme=react-dark&hide_border=true&area=true&color=A855F7&line=7C3ED&point=C084FC" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=NaveenThankaswamy&theme=radical&no-frame=true&row=1&column=6" />
+
 </div>
 
 ---
 
-## <div align="center">Contribution Snake</div>
+## 🟣 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaveenThankaswamy/NaveenThankaswamy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaveenThankaswamy/NaveenThankaswamy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NaveenThankaswamy/NaveenThankaswamy/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenThankaswamy&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="95%" />
+
 </div>
 
 ---
 
-## <div align="center">Current Focus</div>
+## 🟣 Contribution Snake
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/NaveenThankaswamy/NaveenThankaswamy/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+---
+
+## 🟣 Current Focus
 
 ```yaml
-Learning:
-  - Advanced MLOps & Model Serving
-  - Vector Database Optimization
-  - Production RAG Architectures
-
-Building:
-  - End-to-end ML pipelines with FastAPI
-  - LLM-integrated full-stack applications
-  - Uplift modeling & causal inference systems
-
-Exploring:
-  - Multi-agent AI systems
-  - Real-time inference at scale
-  - Cloud-native ML deployments
-
-Open To:
-  - Data Science roles
-  - ML Engineering positions
-  - AI Engineering opportunities
-  - Full-stack + AI hybrid roles
-</div>
-<div align="center">
-<div align="center">
-<a href="mailto:naveenthankaswamy07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/naveen4235">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/NaveenThankaswamy">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-<div align="center">
-  <i>"Build systems that think. Ship systems that scale."</i>
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,1:A855F7,2:7C3AED,3:5B21B6,4:4C1D95&height=150&section=footer" width="100%"/>
-</div>
+current_focus:
+  learning:
+    - Advanced RAG architectures and agentic workflows
+    - Production-grade MLOps practices
+  building:
+    - End-to-end ML systems with real deployment (FastAPI + Docker)
+    - LLM-integrated full-stack applications
+  exploring:
+    - Vector search and retrieval optimization
+    - Multi-agent LLM systems
+  open_to:
+    - Data Science roles (Fresher)
+    - Machine Learning Engineering roles (Fresher)
+    - AI Engineering roles (Fresher)
 ```
+
+---
+
+## 🟣 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenthankaswamy07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen4235)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaveenThankaswamy)
+
+</div>
+
+---
+
+<div align="center">
+
+<i>"Problem-first, tool-second — the model, the pipeline, and the system that ships it all matter equally."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
