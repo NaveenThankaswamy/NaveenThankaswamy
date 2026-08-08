@@ -60,22 +60,36 @@ I'm early in my career, but I already have a clear sense of the kind of engineer
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend**
+**Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+![scikit-learn](https://img.shields.io/badge/scikit--learn-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-6D28D9?style=for-the-badge&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-6D28D9?style=for-the-badge&logoColor=white)
+![Uplift Modeling](https://img.shields.io/badge/Uplift%20Modeling-6D28D9?style=for-the-badge&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-6D28D9?style=for-the-badge&logoColor=white)
 
-**Backend & Databases**
+**Data Analysis**
 
-<img src="https://skillicons.dev/icons?i=fastapi,express,postgres,sqlite&theme=dark" />
+![Pandas](https://img.shields.io/badge/Pandas-6D28D9?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-6D28D9?style=for-the-badge&logoColor=white)
 
-**Cloud, DevOps & Tooling**
+**AI & LLM Engineering**
 
-<img src="https://skillicons.dev/icons?i=docker,git&theme=dark" />
-<img src="https://img.shields.io/badge/Streamlit-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white" />
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-6D28D9?style=for-the-badge&logoColor=white)
+
+**Tools & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
