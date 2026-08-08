@@ -1,512 +1,342 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--         THE NAVEEN T R DIGITAL MUSEUM OF INTELLIGENT SYSTEMS                  -->
-<!--              Est. 2022  |  Bengaluru, India  |  Open Daily 24/7                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <!-- ═══════ ANIMATED MUSEUM BANNER ═══════ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,2,5,30&text=THE%20NAVEEN%20T%20R%20MUSEUM&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=OF%20CODE%2C%20ML%20%26%20INTELLIGENT%20SYSTEMS&descSize=18&descAlignY=72&descAlign=50&stroke=000000&strokeWidth=2&section=header" />
-  <br>
-  <!-- ═══════ TYPING ANIMATION 1: WELCOME SEQUENCE ═══════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3500&pause=600&color=F4C430&center=true&vCenter=true&width=950&lines=WELCOME%2C+CURIOUS+MIND+%F0%9F%91%8B;EVERY+LINE+OF+CODE+TELLS+A+STORY;FROM+RAW+DATA+TO+INTELLIGENT+SYSTEMS;WHERE+ALGORITHMS+MEET+ARTISTRY;PULL+UP+A+CHAIR.+THE+TOUR+STARTS+NOW." alt="Welcome Sequence" />
-  <br><br>
-  <!-- ═══════ BADGE ROW 1: IDENTITY ═══════ -->
-  <img src="https://img.shields.io/badge/🌐_Bengaluru%2C_India-Open_to_Collaborate-ff6b6b?style=for-the-badge&labelColor=1a1a2e&color=gradient" />
-  <img src="https://img.shields.io/badge/📧_naveenthankaswamy%40gmail.com-Reach_Out-4ecdc4?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🎓_CSE%20Graduate%202026-University%20College%20of%20Engineering%2C%20Kanchipuram-45b7d1?style=for-the-badge&labelColor=1a1a2e" />
-  <br><br>
-  <!-- ═══════ ANIMATED VISITOR COUNTER ═══════ -->
-  <img src="https://komarev.com/ghpvc/?username=NaveenThankaswamy&style=for-the-badge&color=0e75b6&label=🏛️+MUSEUM+VISITORS" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/NaveenThankaswamy?label=👥+FOLLOWERS&style=for-the-badge&color=ff6b6b&labelColor=1a1a2e" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/NaveenThankaswamy?label=⭐+STARS&style=for-the-badge&color=f4c430&labelColor=1a1a2e" alt="Stars" />
-</div>
+&lt;p align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=200&section=header&text=Naveen%20T%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16" alt="header"/&gt;
+&lt;/p&gt;
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED SECTION DIVIDER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
+&lt;p align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Engineer;Full+Stack+Developer;Product+Engineer;Open+Source+Contributor" alt="typing svg" /&gt;
+&lt;/p&gt;
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                         ENTRANCE HALL — THE CURATOR                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  ENTRANCE HALL — <i>Who Curates This Museum?</i>
-</h2>
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/B.E.-Computer%20Science%20Engineering-8B5CF6?style=for-the-badge&labelColor=1E1B4B" alt="degree"/&gt;
+  &lt;img src="https://img.shields.io/badge/University-University%20College%20of%20Engineering%2C%20Kanchipuram-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="university"/&gt;
+  &lt;img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-6D28D9?style=for-the-badge&labelColor=1E1B4B" alt="location"/&gt;
+&lt;/p&gt;
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-        <!-- ═══════ ANIMATED QUOTE BOX ═══════ -->
-        <div style="background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);border-radius:15px;padding:20px;border:2px solid #f4c430;">
-          <p align="justify">
-            <i>
-              &nbsp;&nbsp;&nbsp;&nbsp;I don't just write code — I <b>curate intelligence</b>. Every project in this museum is a carefully preserved artifact of problem-solving: from predicting which customer will churn (and whether we should even try to stop them) to building AI assistants that actually <b>understand</b> your documents.
-              <br><br>
-              &nbsp;&nbsp;&nbsp;&nbsp;I think in <b>problems first, tools second</b>. Sometimes that means training an XGBoost model. Sometimes it means wiring a local LLM through a RAG pipeline. Sometimes it means Dockerizing the whole thing so it actually runs on someone else's machine.
-              <br><br>
-              &nbsp;&nbsp;&nbsp;&nbsp;Currently pursuing my <b>B.E. in Computer Science</b> at <b>University College of Engineering, Kanchipuram</b>. Expected graduation: <b>July 2026</b>.
-            </i>
-          </p>
-        </div>
-        <br>
-        <!-- ═══════ TYPING ANIMATION 2: PHILOSOPHY ═══════ -->
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=500&color=00D4AA&center=true&vCenter=true&width=600&lines=Problems+first.+Tools+second.;Model.+Deploy.+Iterate.;Data+is+the+new+oil.+Insights+are+the+refinery." alt="Philosophy" />
-      </td>
-      <td width="40%" valign="middle" align="center">
-        <!-- ═══════ ANIMATED STATS CARDS ═══════ -->
-        <img src="https://github-readme-stats.vercel.app/api?username=NaveenThankaswamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f4c430&icon_color=ff6b6b&text_color=c9d1d9&border_radius=15&card_width=400&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenThankaswamy&theme=tokyonight&hide_border=true&background=0d1117&stroke=f4c430&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=f4c430&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats" />
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenThankaswamy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f4c430&text_color=c9d1d9&border_radius=15&layout=compact&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+&lt;p align="center"&gt;
+  &lt;a href="https://naveenthankaswamy.github.io"&gt;&lt;img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white&labelColor=1E1B4B" alt="portfolio"/&gt;&lt;/a&gt;
+  &lt;a href="https://linkedin.com/in/naveen-thankaswamy"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="linkedin"/&gt;&lt;/a&gt;
+  &lt;a href="mailto:naveen.thankaswamy@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="email"/&gt;&lt;/a&gt;
+  &lt;a href="https://github.com/NaveenThankaswamy"&gt;&lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="github"/&gt;&lt;/a&gt;
+&lt;/p&gt;
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED SECTION DIVIDER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=NaveenThankaswamy&color=8B5CF6&style=for-the-badge&label=Profile%20Views" alt="profile views"/&gt;
+  &lt;img src="https://img.shields.io/github/followers/NaveenThankaswamy?color=7C3AED&style=for-the-badge&logo=github&label=Followers" alt="followers"/&gt;
+  &lt;img src="https://img.shields.io/github/stars/NaveenThankaswamy?color=6D28D9&style=for-the-badge&logo=github&label=Stars" alt="stars"/&gt;
+&lt;/p&gt;
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    GALLERY I — THE ANIMATED TOOL COLLECTION                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" />
-  GALLERY I — <i>The Curator's Toolkit</i>
-</h2>
+---
 
-<div align="center">
-  <!-- ═══════ TYPING ANIMATION 3: SKILLS INTRO ═══════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=400&color=FF6B6B&center=true&vCenter=true&width=700&lines=import+naveen+as+engineer;engineer.think(problems_first=True);engineer.build(tools_second=True);engineer.deploy(with_passion=True)" alt="Skills Code" />
-  <br><br>
+## About Me
 
-  <h3>🐍 Programming Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/SQL-Proficient-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/JavaScript-Competent-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e" />
-  </p>
+&lt;p align="justify"&gt;
+A Computer Science graduate operating at the intersection of &lt;strong&gt;software engineering&lt;/strong&gt;, &lt;strong&gt;data science&lt;/strong&gt;, and &lt;strong&gt;artificial intelligence&lt;/strong&gt;. I architect solutions with a problem-first mindset — whether that means training production-grade ML models, integrating LLMs into scalable backends, or engineering robust data pipelines that don't break at scale. Early in my career, but with a clear engineering identity: build systems that are intelligent, resilient, and measurable.
+&lt;/p&gt;
 
-  <h3>🤖 Machine Learning & AI</h3>
-  <p>
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/XGBoost-EB5B2D?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Logistic%20Regression-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Uplift%20Modeling-10B981?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/SHAP-0EA5E9?style=for-the-badge&logo=shap&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Statistical%20Analysis-EC4899?style=for-the-badge&logo=statamic&logoColor=white&labelColor=1a1a2e" />
-  </p>
+- **Software Engineering**: Building full-stack applications with modern frameworks and clean architecture
+- **AI/ML Engineering**: Productionizing models with proper evaluation, monitoring, and business impact analysis
+- **Product Engineering**: Thinking in terms of user value, system design, and scalable delivery
+- **Tech Stack**: Python, FastAPI, React, PostgreSQL, Docker, scikit-learn, XGBoost, LLM integrations
 
-  <h3>🧠 AI & LLM Engineering</h3>
-  <p>
-    <img src="https://img.shields.io/badge/RAG%20(Retrieval--Augmented%20Generation)-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Semantic%20Search%20(FAISS)-00D4AA?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/SentenceTransformers-F4C430?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Ollama%20(LLMs)-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" />
-  </p>
+### Open To
 
-  <h3>📊 Data Analysis</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1a1a2e" />
-  </p>
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/Software%20Engineering-Full%20Stack%20%2F%20Backend-8B5CF6?style=flat-square&labelColor=1E1B4B" alt="se"/&gt;
+  &lt;img src="https://img.shields.io/badge/AI%2FML%20Engineering-Production%20ML%20%2F%20MLOps-7C3AED?style=flat-square&labelColor=1E1B4B" alt="aiml"/&gt;
+  &lt;img src="https://img.shields.io/badge/Product%20Engineering-System%20Design%20%2F%20Architecture-6D28D9?style=flat-square&labelColor=1E1B4B" alt="pe"/&gt;
+  &lt;img src="https://img.shields.io/badge/Open%20Source-Collaborations%20%2F%20Contributions-5B21B6?style=flat-square&labelColor=1E1B4B" alt="oss"/&gt;
+&lt;/p&gt;
 
-  <h3>🛠️ Tools & Deployment</h3>
-  <p>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/REST%20API%20Design-FF6B6B?style=for-the-badge&logo=swagger&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a2e" />
-  </p>
-</div>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED SECTION DIVIDER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
+## Tech Stack
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    GALLERY II — THE ANIMATED EXHIBITION HALL                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40px" />
-  GALLERY II — <i>Featured Exhibitions (Projects)</i>
-</h2>
+### Languages
+&lt;p align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="languages"/&gt;
+&lt;/p&gt;
 
-<div align="center">
-  <!-- ═══════ TYPING ANIMATION 4: PROJECTS INTRO ═══════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=3000&pause=600&color=F4C430&center=true&vCenter=true&width=800&lines=Each+project+is+a+masterpiece.;Each+model+is+a+theory+tested.;Each+deployment+is+a+victory+earned." alt="Projects Intro" />
-  <br><br>
+### Frontend
+&lt;p align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" alt="frontend"/&gt;
+&lt;/p&gt;
 
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-  <!-- EXHIBIT A: CHURN ANALYTICS WITH UPLIFT MODELING -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-  <table>
-    <tr>
-      <td width="100%" align="center">
-        <h3>
-          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px" />
-          🏆 EXHIBIT A — Churn Analytics with Uplift Modeling
-        </h3>
-        <p><i><b>Not all customers who might churn should be saved. The art is knowing which ones.</b></i></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td width="55%" valign="top">
-              <h4>🔬 The Science</h4>
-              <ul>
-                <li>Trained and compared <b>churn classifiers</b> using XGBoost achieving <b>0.9646 ROC-AUC</b></li>
-                <li>Evaluated <b>three uplift models</b> with <b>SoloModel</b> achieving the best <b>Qini AUC of 0.1708</b></li>
-                <li>Identified customers where a <b>retention offer would actually change behavior</b> — not just those at risk</li>
-                <li>Designed a <b>campaign ROI simulator</b>: expected uplift × customer lifetime value vs. offer cost</li>
-                <li>Used <b>SHAP values</b> and <b>Qini curves</b> to evaluate and defend model selection</li>
-              </ul>
-              <h4>🛠️ The Engineering</h4>
-              <ul>
-                <li>Shipped models behind a <b>FastAPI + PostgreSQL</b> service with <b>API-key authentication</b></li>
-                <li>Containerized via <b>Docker Compose</b> alongside a <b>Streamlit</b> analytics dashboard</li>
-              </ul>
-            </td>
-            <td width="45%" valign="middle" align="center">
-              <br>
-              <!-- ANIMATED METRIC BADGES -->
-              <img src="https://img.shields.io/badge/ROC--AUC-0.9646-00D4AA?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" />
-              <br><br>
-              <img src="https://img.shields.io/badge/Qini_AUC-0.1708-F4C430?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" />
-              <br><br>
-              <img src="https://img.shields.io/badge/Model-SoloModel-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" />
-              <br><br>
-              <img src="https://img.shields.io/badge/Stack-FastAPI_|_PostgreSQL_|_Docker_|_Streamlit-45b7d1?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=0d1117" />
-              <br><br>
-              <p><i>💡 <b>Key Insight:</b> Predicting churn is easy. Predicting <b>who will respond to an intervention</b> — that's the real craft.</i></p>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+### Backend & Databases
+&lt;p align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=fastapi,express,django,postgresql,sqlite&theme=dark" alt="backend"/&gt;
+&lt;/p&gt;
 
-  <br>
+### Cloud, DevOps & Tooling
+&lt;p align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" alt="devops"/&gt;
+&lt;/p&gt;
 
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-  <!-- EXHIBIT B: DOCUMIND AI -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-  <table>
-    <tr>
-      <td width="100%" align="center">
-        <h3>
-          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px" />
-          🧠 EXHIBIT B — DocuMind AI: Enterprise Knowledge Assistant (RAG)
-        </h3>
-        <p><i><b>Your documents. Understood. Not just searched.</b></i></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td width="55%" valign="top">
-              <h4>🔬 The Science</h4>
-              <ul>
-                <li>Built a <b>full-stack RAG system</b> enabling PDF upload and natural-language Q&A with <b>source citation</b></li>
-                <li>Implemented the <b>retrieval pipeline</b>: chunked PDF text → SentenceTransformer embeddings → FAISS index</li>
-                <li>Integrated a <b>local LLM (Ollama, phi3:mini)</b> with <b>context-restricted prompts</b> to reduce hallucinations</li>
-                <li>Every answer is <b>grounded in document content</b> — no made-up facts, no confident nonsense</li>
-              </ul>
-              <h4>🛠️ The Engineering</h4>
-              <ul>
-                <li><b>FastAPI backend</b> for robust, async API handling</li>
-                <li>End-to-end pipeline from upload to intelligent response generation</li>
-              </ul>
-            </td>
-            <td width="45%" valign="middle" align="center">
-              <br>
-              <img src="https://img.shields.io/badge/Architecture-RAG-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
-              <br><br>
-              <img src="https://img.shields.io/badge/Embeddings-SentenceTransformers-F4C430?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117" />
-              <br><br>
-              <img src="https://img.shields.io/badge/Vector_DB-FAISS-00D4AA?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
-              <br><br>
-              <img src="https://img.shields.io/badge/LLM-Ollama%20phi3:mini-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black&labelColor=0d1117" />
-              <br><br>
-              <p><i>💡 <b>Key Insight:</b> The future of search isn't keywords — it's <b>meaning</b>.</i></p>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+---
 
-  <br>
+## AI / ML Expertise
 
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-  <!-- EXHIBIT C: ECOSTREAM-LITE -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-  <table>
-    <tr>
-      <td width="100%" align="center">
-        <h3>
-          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px" />
-          🛒 EXHIBIT C — EcoStream-Lite: Multi-Storefront E-Commerce Platform (LLM-Integrated)
-        </h3>
-        <p><i><b>One backend. Four storefronts. Infinite intelligence.</b></i></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td width="55%" valign="top">
-              <h4>🔬 The Science</h4>
-              <ul>
-                <li>Architected a <b>multi-tenant platform</b> with <b>4 independent storefronts</b> sharing a common admin layer</li>
-                <li>Integrated <b>LLMs via OpenRouter</b> for:
-                  <ul>
-                    <li>📝 <b>SEO copywriting</b> — auto-generated product descriptions that rank</li>
-                    <li>😊 <b>Sentiment analysis</b> — understanding customer emotions at scale</li>
-                    <li>💬 <b>Smart customer replies</b> — AI-powered support that sounds human</li>
-                  </ul>
-                </li>
-                <li>Built a <b>React admin dashboard</b> for cross-store analytics and content management</li>
-              </ul>
-              <h4>🛠️ The Engineering</h4>
-              <ul>
-                <li><b>React 19</b> frontend with modern hooks and patterns</li>
-                <li><b>Express + SQLite</b> backend — lightweight yet powerful</li>
-                <li>Seamless LLM integration through <b>OpenRouter API</b></li>
-              </ul>
-            </td>
-            <td width="45%" valign="middle" align="center">
-              <br>
-              <img src="https://img.shields.io/badge/Frontend-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" />
-              <br><br>
-              <img src="https://img.shields.io/badge/Backend-Express_|_SQLite-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" />
-              <br><br>
-              <img src="https://img.shields.io/badge/LLM_Provider-OpenRouter-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
-              <br><br>
-              <img src="https://img.shields.io/badge/Stores-4_Independent_Storefronts-FF6B6B?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0d1117" />
-              <br><br>
-              <p><i>💡 <b>Key Insight:</b> AI isn't replacing commerce — it's <b>amplifying</b> it.</i></p>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
+&lt;div align="center"&gt;
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th align="center" width="22%"&gt;Domain&lt;/th&gt;
+        &lt;th align="center" width="18%"&gt;Proficiency&lt;/th&gt;
+        &lt;th align="center" width="60%"&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td align="center"&gt;Machine Learning&lt;/td&gt;
+        &lt;td align="center"&gt;Advanced&lt;/td&gt;
+        &lt;td align="center"&gt;scikit-learn, XGBoost, Logistic Regression, Statistical Analysis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td align="center"&gt;Uplift Modeling&lt;/td&gt;
+        &lt;td align="center"&gt;Advanced&lt;/td&gt;
+        &lt;td align="center"&gt;SoloModel, Qini AUC, ROC-AUC, Campaign ROI Simulation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td align="center"&gt;Model Evaluation&lt;/td&gt;
+        &lt;td align="center"&gt;Advanced&lt;/td&gt;
+        &lt;td align="center"&gt;SHAP, Qini Curves, Business Impact Metrics&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td align="center"&gt;LLM Engineering&lt;/td&gt;
+        &lt;td align="center"&gt;Intermediate&lt;/td&gt;
+        &lt;td align="center"&gt;RAG, Semantic Search (FAISS), Prompt Engineering, Ollama Integration&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td align="center"&gt;Data Analysis&lt;/td&gt;
+        &lt;td align="center"&gt;Advanced&lt;/td&gt;
+        &lt;td align="center"&gt;Pandas, NumPy, Matplotlib, Pipeline Design&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td align="center"&gt;MLOps&lt;/td&gt;
+        &lt;td align="center"&gt;Intermediate&lt;/td&gt;
+        &lt;td align="center"&gt;FastAPI, Docker, PostgreSQL, API-Key Auth, Streamlit&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED SECTION DIVIDER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    GALLERY III — THE ANIMATED INTERNSHIP CHRONICLES             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKiL6x04RkX2G8UZa/giphy.gif" width="40px" />
-  GALLERY III — <i>Internship Chronicles</i>
-</h2>
+## Featured Projects
 
-<div align="center">
-  <!-- ═══════ TYPING ANIMATION 5: EXPERIENCE INTRO ═══════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=500&color=00D4AA&center=true&vCenter=true&width=600&lines=Real+world.+Real+impact.+Real+learning.;From+classroom+to+codebase+in+60+days." alt="Experience Intro" />
-  <br><br>
+&lt;details&gt;
+&lt;summary&gt;&lt;h3&gt;Churn Analytics with Uplift Modeling&lt;/h3&gt;&lt;/summary&gt;
 
-  <table>
-    <tr>
-      <td width="100%" align="center">
-        <h3>🏢 NexGen Innovator Solutions — Software Engineering Intern</h3>
-        <p><i>July 2025 – August 2025 | Bengaluru, India</i></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td width="50%" valign="top">
-              <h4>🎯 What I Built</h4>
-              <ul>
-                <li>Built <b>core backend modules</b> for a Django-based <b>Student Portfolio Portal</b></li>
-                <li>Implemented <b>user authentication</b>, <b>student registration</b>, <b>profile management</b></li>
-                <li>Ensured <b>secure data handling</b> throughout the application</li>
-                <li>Integrated <b>generative AI features</b> for managing student profiles, academic records, and project portfolios</li>
-              </ul>
-            </td>
-            <td width="50%" valign="top">
-              <h4>🎨 What I Designed</h4>
-              <ul>
-                <li>Designed and implemented <b>responsive, intuitive front-end interfaces</b></li>
-                <li>Aligned UI/UX with <b>academic usability standards</b></li>
-                <li>Contributed to both the <b>application's UI layer</b> and its <b>underlying data architecture</b></li>
-              </ul>
-            </td>
-          </tr>
-        </table>
-        <p align="center"><i>💡 <b>Lesson Learned:</b> Good software isn't just functional — it's <b>human</b>.</i></p>
-      </td>
-    </tr>
-  </table>
-</div>
+&lt;p&gt;Enterprise-grade churn prediction system with uplift modeling to identify customers where retention offers actually change behavior, not just predict churn risk.&lt;/p&gt;
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED SECTION DIVIDER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
+| Metric | Value |
+|--------|-------|
+| **Stack** | Python, XGBoost, FastAPI, PostgreSQL, Docker, Streamlit, SHAP |
+| **Scale** | Production-ready API with containerized deployment |
+| **Performance** | XGBoost ROC-AUC: 0.9646; SoloModel Qini AUC: 0.1708 |
+| **Security** | API-Key Authentication, Secure Data Handling |
+| **Impact** | Campaign ROI simulator enabling data-driven retention decisions |
+| **Repository** | [View Code](https://github.com/NaveenThankaswamy) |
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    GALLERY IV — THE ANIMATED CONTRIBUTION CARTOGRAPHY           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" />
-  GALLERY IV — <i>Contribution Cartography</i>
-</h2>
+**Engineering Highlights:**
+- Trained and compared churn classifiers against three uplift models, selecting SoloModel for optimal Qini AUC performance
+- Designed campaign ROI simulator integrating expected uplift, customer lifetime value, and offer cost analysis
+- Deployed via FastAPI + PostgreSQL service with API-key authentication, containerized via Docker Compose
+- Built Streamlit frontend for stakeholder interaction and model interpretability via SHAP visualizations
 
-<div align="center">
-  <!-- ═══════ TYPING ANIMATION 6: STATS INTRO ═══════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=3000&pause=600&color=F4C430&center=true&vCenter=true&width=700&lines=Every+commit+is+a+brushstroke.;Every+merge+is+a+masterpiece+finished.;The+canvas+keeps+growing." alt="Stats Intro" />
-  <br><br>
+&lt;/details&gt;
 
-  <!-- ═══════ ANIMATED CONTRIBUTION GRAPH ═══════ -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenThankaswamy&bg_color=0d1117&color=f4c430&line=ff6b6b&point=00d4aa&area=true&hide_border=true&custom_title=My%20Coding%20Journey%20-%20A%20Visual%20Timeline" alt="Contribution Graph" />
-  <br><br>
+&lt;details&gt;
+&lt;summary&gt;&lt;h3&gt;DocuMind AI — Enterprise Knowledge Assistant&lt;/h3&gt;&lt;/summary&gt;
 
-  <!-- ═══════ ANIMATED TROPHIES ═══════ -->
-  <img src="https://github-profile-trophy.vercel.app/?username=NaveenThankaswamy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-  <br><br>
+&lt;p&gt;Full-stack Retrieval-Augmented Generation (RAG) system enabling PDF upload and natural-language Q&A grounded in document content with source citation.&lt;/p&gt;
 
-  <!-- ═══════ ANIMATED SNAKE ═══════ -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaveenThankaswamy/NaveenThankaswamy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaveenThankaswamy/NaveenThankaswamy/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/NaveenThankaswamy/NaveenThankaswamy/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+| Metric | Value |
+|--------|-------|
+| **Stack** | Python, FastAPI, SentenceTransformer, FAISS, Ollama, phi3:mini |
+| **Scale** | End-to-end document intelligence pipeline |
+| **Performance** | Semantic search with vector embeddings; context-restricted LLM prompts |
+| **Security** | Local LLM deployment (Ollama), document-level access control |
+| **Impact** | Enterprise knowledge retrieval with cited, grounded responses |
+| **Repository** | [View Code](https://github.com/NaveenThankaswamy) |
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED SECTION DIVIDER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
+**Engineering Highlights:**
+- Architected retrieval pipeline: PDF chunking, SentenceTransformer embeddings, FAISS vector indexing
+- Integrated local LLM (Ollama, phi3:mini) with context-restricted prompts to reduce hallucination
+- Built FastAPI backend enabling scalable document upload and query handling
+- Implemented source citation mechanism for traceable, trustworthy AI responses
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    GALLERY V — THE ANIMATED CONNECTIVITY HUB                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" />
-  GALLERY V — <i>Connect With The Curator</i>
-</h2>
+&lt;/details&gt;
 
-<div align="center">
-  <!-- ═══════ TYPING ANIMATION 7: CONNECT INTRO ═══════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=3000&pause=600&color=F4C430&center=true&vCenter=true&width=700&lines=The+museum+is+always+open.;The+curator+is+always+reachable.;Let's+build+something+extraordinary+together." alt="Connect Intro" />
-  <br><br>
+&lt;details&gt;
+&lt;summary&gt;&lt;h3&gt;EcoStream-Lite — Multi-Storefront E-Commerce Platform&lt;/h3&gt;&lt;/summary&gt;
 
-  <p>
-    <a href="mailto:naveenthankaswamy@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
-    </a>
-    <a href="https://www.linkedin.com/in/naveen-thankaswamy">
-      <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
-    </a>
-    <a href="https://github.com/NaveenThankaswamy">
-      <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-    </a>
-    <a href="tel:+917448304235">
-      <img src="https://img.shields.io/badge/📱_+91_74483_04235-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e" />
-    </a>
-  </p>
-  <br>
+&lt;p&gt;Multi-tenant e-commerce platform with 4 independent storefronts, LLM-integrated admin layer, and cross-store analytics dashboard.&lt;/p&gt;
 
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>💼 Open To</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Full--Time_Roles-00D4AA?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1a1a2e" />
-          <br>
-          <img src="https://img.shields.io/badge/Internships-F4C430?style=for-the-badge&logo=internship&logoColor=black&labelColor=1a1a2e" />
-          <br>
-          <img src="https://img.shields.io/badge/Freelance_Projects-FF6B6B?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=1a1a2e" />
-        </p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🎯 Domains</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a2e" />
-          <br>
-          <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a2e" />
-          <br>
-          <img src="https://img.shields.io/badge/AI_/_LLM_Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" />
-          <br>
-          <img src="https://img.shields.io/badge/Backend_Development-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a2e" />
-        </p>
-      </td>
-      <td align="center" width="33%">
-        <h3>📍 Location</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Bengaluru%2C_India-Base-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" />
-          <br>
-          <img src="https://img.shields.io/badge/Remote-Open-00D4AA?style=for-the-badge&logo=zoom&logoColor=white&labelColor=1a1a2e" />
-          <br>
-          <img src="https://img.shields.io/badge/Relocation-Discussable-F4C430?style=for-the-badge&logo=airbnb&logoColor=black&labelColor=1a1a2e" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+| Metric | Value |
+|--------|-------|
+| **Stack** | React 19, Express, SQLite, OpenRouter, LLM APIs |
+| **Scale** | Multi-tenant architecture with shared admin layer |
+| **Performance** | Real-time SEO copywriting, sentiment analysis, smart customer replies |
+| **Security** | Multi-tenant data isolation, secure API integrations |
+| **Impact** | AI-powered content generation and customer intelligence at scale |
+| **Repository** | [View Code](https://github.com/NaveenThankaswamy) |
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED SECTION DIVIDER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
+**Engineering Highlights:**
+- Architected multi-tenant platform with 4 independent storefronts sharing a common admin layer
+- Integrated LLMs via OpenRouter for automated SEO copywriting, sentiment analysis, and intelligent customer replies
+- Built React admin dashboard for cross-store analytics and content management
+- Designed scalable backend architecture supporting concurrent storefront operations
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              THE EXIT GIFT SHOP                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <!-- ═══════ ANIMATED WAVE FOOTER ═══════ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,2,2,5,30&text=THANK%20YOU%20FOR%20VISITING&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=⭐%20Star%20a%20repo%20if%20something%20inspired%20you%20%7C%20🤝%20Open%20to%20collaborations%20%7C%20🚀%20Let's%20build%20something%20extraordinary%20together&descSize=13&descAlignY=82&descAlign=50&stroke=000000&strokeWidth=1&section=footer" />
-  <br><br>
+&lt;/details&gt;
 
-  <!-- ═══════ TYPING ANIMATION 8: CLOSING WORDS ═══════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=2800&pause=500&color=F4C430&center=true&vCenter=true&width=800&lines=Every+bug+is+a+lesson.;Every+model+is+a+theory+tested.;Every+deployment+is+a+victory+earned.;The+museum+never+closes.+Come+back+soon." alt="Closing Words" />
-  <br><br>
+---
 
-  <p><i>🎨 <b>Curated with passion by Naveen T R</b> | Est. 2022 | Bengaluru, India 🎨</i></p>
-  <p><sub><i>This README was crafted like a museum exhibition — every pixel placed with purpose.</i></sub></p>
-  <br>
+## Experience
 
-  <!-- ═══════ ANIMATED WAVING HAND ═══════ -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
-</div>
+### Software Engineering Intern
+**NexGen Innovator Solutions** | *July 2025 – August 2025*
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              END OF MUSEUM TOUR                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+&lt;p align="justify"&gt;
+Built core backend and frontend modules for a Django-based Student Portfolio Portal with generative AI features. Contributed to full-stack development including authentication, data management, and responsive UI design aligned with academic usability standards.
+&lt;/p&gt;
+
+**Scope of Work:**
+- Engineered user authentication, student registration, and profile management modules with secure data handling
+- Implemented generative AI features for managing student profiles, academic records, and project portfolios
+- Designed responsive, intuitive front-end interfaces following academic usability standards
+- Contributed to both UI layer implementation and underlying data architecture
+
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1E1B4B" alt="python"/&gt;
+  &lt;img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=1E1B4B" alt="django"/&gt;
+  &lt;img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=flat-square&logo=openai&logoColor=white&labelColor=1E1B4B" alt="genai"/&gt;
+  &lt;img src="https://img.shields.io/badge/REST%20API-7C3AED?style=flat-square&logo=fastapi&logoColor=white&labelColor=1E1B4B" alt="rest"/&gt;
+  &lt;img src="https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white&labelColor=1E1B4B" alt="postgresql"/&gt;
+&lt;/p&gt;
+
+---
+
+## Achievements
+
+&lt;div align="center"&gt;
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th align="center" width="30%"&gt;Recognition&lt;/th&gt;
+        &lt;th align="center" width="70%"&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td align="center"&gt;Academic Excellence&lt;/td&gt;
+        &lt;td align="center"&gt;Pursuing B.E. Computer Science Engineering with strong academic standing at University College of Engineering, Kanchipuram&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td align="center"&gt;Early Career Impact&lt;/td&gt;
+        &lt;td align="center"&gt;Built production-grade AI/ML systems and full-stack platforms as academic and personal projects&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td align="center"&gt;Engineering Mindset&lt;/td&gt;
+        &lt;td align="center"&gt;Problem-first approach across software engineering, data science, and AI domains&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+---
+
+## Certifications
+
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/AWS-Cloud%20Certifications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1E1B4B" alt="aws"/&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/Oracle-Database%20%26%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1E1B4B" alt="oracle"/&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/NPTEL-IIT%20Certifications-4B0082?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=1E1B4B" alt="nptel"/&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1E1B4B" alt="cisco"/&gt;
+&lt;/p&gt;
+
+---
+
+## Coding Profiles
+
+&lt;p align="center"&gt;
+  &lt;a href="https://leetcode.com/u/NaveenThankaswamy/"&gt;&lt;img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B" alt="leetcode"/&gt;&lt;/a&gt;
+  &lt;a href="https://auth.geeksforgeeks.org/user/naveenthankaswamy/"&gt;&lt;img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B" alt="gfg"/&gt;&lt;/a&gt;
+  &lt;a href="https://www.hackerrank.com/profile/naveenthankaswamy"&gt;&lt;img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B4B" alt="hackerrank"/&gt;&lt;/a&gt;
+  &lt;a href="https://www.codechef.com/users/naveenthankaswamy"&gt;&lt;img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B4B" alt="codechef"/&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+---
+
+## GitHub Analytics
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=NaveenThankaswamy&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&border_radius=10" alt="github stats" height="180"/&gt;
+  &lt;img src="https://streak-stats.demolab.com?user=NaveenThankaswamy&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FF6B6B&sideNums=8B5CF6&dates=C9D1D9&border_radius=10" alt="streak stats" height="180"/&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenThankaswamy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=10&langs_count=8" alt="top languages" height="180"/&gt;
+&lt;/p&gt;
+
+---
+
+## GitHub Trophies
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=NaveenThankaswamy&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="trophies"/&gt;
+&lt;/p&gt;
+
+---
+
+## Contribution Activity
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenThankaswamy&theme=midnight-purple&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FF6B6B&area=true&area_color=8B5CF620" alt="activity graph"/&gt;
+&lt;/p&gt;
+
+---
+
+## Contribution Snake
+
+&lt;p align="center"&gt;
+  &lt;picture&gt;
+    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaveenThankaswamy/NaveenThankaswamy/output/github-contribution-grid-snake-dark.svg"/&gt;
+    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaveenThankaswamy/NaveenThankaswamy/output/github-contribution-grid-snake.svg"/&gt;
+    &lt;img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NaveenThankaswamy/NaveenThankaswamy/output/github-contribution-grid-snake.svg"/&gt;
+  &lt;/picture&gt;
+&lt;/p&gt;
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Advanced MLOps & Model Serving
+  - Distributed Systems Architecture
+  - Cloud-Native AI Platforms
+
+Building:
+  - Production RAG Systems
+  - Scalable FastAPI Microservices
+  - LLM-Integrated Full Stack Applications
+
+Exploring:
+  - Vector Databases & Semantic Search
+  - Multi-Agent AI Systems
+  - Kubernetes & Cloud Infrastructure
+
+Open To:
+  - Software Engineering Roles
+  - AI/ML Engineering Positions
+  - Product Engineering Opportunities
+  - Open Source Collaborations
